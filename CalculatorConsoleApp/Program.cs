@@ -1,6 +1,8 @@
 ﻿using System;
-using CalculatorConsoleApp.exceptions;
+using InterestClassLibrary;
+using InterestClassLibrary.exceptions;
 using static System.Console;
+using Math = InterestClassLibrary.Math;
 
 namespace CalculatorConsoleApp
 {
@@ -15,7 +17,7 @@ namespace CalculatorConsoleApp
                 WriteLine("Enter principle amount");
                 principle = ValidateInput("PRINCIPLE", ReadLine());
 
-                WriteLine("Enter time");
+                WriteLine("Enter time in year");
                 time = ValidateInput("TIME", ReadLine());
 
                 WriteLine("Enter rate ");

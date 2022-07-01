@@ -1,6 +1,6 @@
 namespace CalculatorTestProject
 {
-    public class UnitTest1
+    public class SimpleInterestTest
     {
         [Fact]
         public void Test1()

@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="InterestClassLibrary">
+      <HintPath>..\InterestClassLibrary\InterestClassLibrary\bin\Debug\InterestClassLibrary.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -43,12 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CompoundInterest.cs" />
-    <Compile Include="exceptions\InvalidInputException.cs" />
-    <Compile Include="SimpleInterest.cs" />
-    <Compile Include="ICalculator.cs" />
-    <Compile Include="IMath.cs" />
-    <Compile Include="Math.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

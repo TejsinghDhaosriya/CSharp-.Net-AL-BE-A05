@@ -21,4 +21,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="CalculatorConsoleApp">
+      <HintPath>..\..\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
