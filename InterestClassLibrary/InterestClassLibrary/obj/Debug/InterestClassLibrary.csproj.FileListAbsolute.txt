@@ -1,0 +1,6 @@
+C:\Users\tej\workArea\C#.Net\CalculatorConsoleApp\InterestClassLibrary\InterestClassLibrary\bin\Debug\InterestClassLibrary.dll
+C:\Users\tej\workArea\C#.Net\CalculatorConsoleApp\InterestClassLibrary\InterestClassLibrary\bin\Debug\InterestClassLibrary.pdb
+C:\Users\tej\workArea\C#.Net\CalculatorConsoleApp\InterestClassLibrary\InterestClassLibrary\obj\Debug\InterestClassLibrary.csproj.AssemblyReference.cache
+C:\Users\tej\workArea\C#.Net\CalculatorConsoleApp\InterestClassLibrary\InterestClassLibrary\obj\Debug\InterestClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tej\workArea\C#.Net\CalculatorConsoleApp\InterestClassLibrary\InterestClassLibrary\obj\Debug\InterestClassLibrary.dll
+C:\Users\tej\workArea\C#.Net\CalculatorConsoleApp\InterestClassLibrary\InterestClassLibrary\obj\Debug\InterestClassLibrary.pdb
