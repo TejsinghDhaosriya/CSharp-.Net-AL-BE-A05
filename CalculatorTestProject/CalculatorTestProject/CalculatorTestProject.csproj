@@ -25,6 +25,9 @@
     <Reference Include="CalculatorConsoleApp">
       <HintPath>..\..\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe</HintPath>
     </Reference>
+    <Reference Include="InterestClassLibrary">
+      <HintPath>..\..\InterestClassLibrary\InterestClassLibrary\bin\Debug\InterestClassLibrary.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
